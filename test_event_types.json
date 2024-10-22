@@ -1,0 +1,41 @@
+{
+    "event_types": {
+        "1": "Birth",
+        "2": "Death",
+        "3": "Adoption",
+        "4": "Funeral",
+        "5": "Name Change",
+        "6": "Baptism",
+        "7": "Confirmation 1 (e.g. roman catholic, old catholic, orthodox, anglican)",
+        "8": "Confirmation 2 (e.g. protestant)",
+        "9": "First Communion",
+        "10": "priestly ordination",
+        "11": "episcopal consecration",
+        "12": "elected as pope",
+        "13": "joining a religious order",
+        "14": "leaving the church",
+        "15": "Excommunication",
+        "16": "Marriage (religious)",
+        "17": "Divorce (religious)",
+        "18": "Annulment (religious)",
+        "19": "Marriage (civil)",
+        "20": "Divorce (civil)",
+        "21": "Annulment (civil)",
+        "22": "Cohabitation",
+        "23": "Separation",
+        "24": "Engagement"
+    },
+
+    "custom_event_types": {
+
+    },
+
+    "attributes_person_types": {
+        "1": "Feast Day"
+    }
+
+    "attributes_name_types": {
+        "1": 
+
+
+}
