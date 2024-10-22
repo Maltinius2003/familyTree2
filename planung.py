@@ -10,6 +10,8 @@ name:
 - id #eg N42
 - type: 0: bürgerlicher Name, 1: adeliger Name, 2: benutzerdefiniert, 3: …
 
+name_types:
+
 
 label:
 - text: string, # heißt im code steht die Sprache in der es zuerst eingegeben wurde
@@ -29,7 +31,7 @@ event:
 - endsevent: id, maybe list # aufzuhebendes Ereignis, zb geburt durch tod, heirat durch scheidung
 - attributs
 
-roles:
+event_roles:
 - id #eg R42
 - type:
     primär: Ehepartner, Kind
